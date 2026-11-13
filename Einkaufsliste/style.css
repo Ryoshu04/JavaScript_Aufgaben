@@ -72,3 +72,9 @@ li > button {
     color: #00891f;
     text-decoration: line-through;
 }
+
+
+.delete
+{
+    display: none;
+}
